@@ -6,8 +6,8 @@
         "Bot",
         "Fun"
     ],
-    "logo": "https://telegra.ph/file/1794c81b97fc30dcefeb2.png",
-    "repository": "https://github.com/Benchamxd/jokebot",
+    "logo": "https://telegra.ph/file/310a3f2f546d532edbcc7.jpg",
+    "repository": "https://github.com/kaal0408/jokebot",
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
