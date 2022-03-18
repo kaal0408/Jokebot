@@ -19,8 +19,6 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 
 ``/joke - To Get the jokes``
 
-# HELP ME
-FOR ANY TYPE OF HELP OR ISSUES. YOU CAN CONTACT ME [HERE](https://telegram.me/induschats)
 
 #
 
