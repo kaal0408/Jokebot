@@ -1,8 +1,8 @@
 <?php
 /*
-BY:- @BenchamXD
+BY:- @Murat_30_God
 
-CHANNEL:- @IndusBots
+CHANNEL:- @Murat_30_God
 */
 error_reporting(0);
 
